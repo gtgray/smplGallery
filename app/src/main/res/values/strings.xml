@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">smplGallery</string>
+
+    <string name="consumer_key">hfaZtwvpVOwRDdLzaFJyHyKk25fzugKqV0wqJ7Ab</string>
+
+    <string name="popular_upper">POPULAR</string>
+    <string name="daily_upper">DAILY</string>
+
+    <string name="photo_title">Title:</string>
+    <string name="photo_created">Created:</string>
+    <string name="photo_viewed">Viewed:</string>
+    <string name="photo_rating">Rating:</string>
+
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
